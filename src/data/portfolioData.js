@@ -10,7 +10,6 @@ export const navLinks = [
 export const personalInfo = {
   name: 'Ashish Das',
   title: 'M.Tech Computer Science Student | Machine Learning | Full Stack Developer | Cloud Enthusiast',
-  phone: '+91 7890848001',
   email: 'ashu.official1254@gmail.com',
   linkedin: 'https://www.linkedin.com/in/ashish-das-190806193/',
   github: 'https://github.com/ashukanauji/',
