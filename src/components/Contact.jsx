@@ -36,10 +36,10 @@ const Contact = () => (
             </a>
           </p>
 
-          {/* Phone */}
+          {/* Phone
           <p>
             <span className="font-semibold text-white">Phone:</span> {personalInfo.phone}
-          </p>
+          </p> */}
 
           {/* LinkedIn */}
           <p>

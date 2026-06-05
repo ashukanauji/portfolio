@@ -10,7 +10,7 @@ export const navLinks = [
 export const personalInfo = {
   name: "Ashish Das",
   title:
-    "M.Tech Computer Science Student | Machine Learning | Full Stack Developer | Cloud Enthusiast",
+    "AI/ML Engineer | Data Scientist | Full Stack Developer | Cloud Engineer",
   phone: "+91 7890848001",
   email: "ashu.official1254@gmail.com",
   linkedin: "https://www.linkedin.com/in/ashish-das-190806193/",
@@ -118,7 +118,7 @@ export const skills = {
   ],
   "Web Technologies": ["React.js", "Node.js", "Express.js", "MongoDB"],
   "Big Data": ["Apache PySpark", "Hadoop"],
-  Cloud: ["Google Cloud Platform"],
+  Cloud: ["Google Cloud Platform", "AWS"],
   Tools: ["GitHub", "VS Code", "Eclipse", "Spyder"],
   "Operating Systems": ["Linux", "Windows"],
   Testing: ["JUnit", "Jumble"],
