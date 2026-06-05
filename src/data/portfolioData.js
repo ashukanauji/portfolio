@@ -91,7 +91,8 @@ export const projects = [
       "Implemented NIfTI data pipelines, slice extraction, and patient-level data splits.",
       "Achieved a Dice score of 0.7012 on unseen patient test data.",
     ],
-    github: "https://github.com/ashukanauji/",
+    github:
+      "https://github.com/ashukanauji/ISLES22-DualDecoderUNet-using-Dice-Loss",
   },
 
   {
