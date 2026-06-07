@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { FaGithub, FaLinkedin, FaPhoneAlt } from 'react-icons/fa';
+import { FaGithub, FaLinkedin} from 'react-icons/fa';
 import { SiLeetcode } from 'react-icons/si';
 import { MdEmail } from 'react-icons/md';
 import { personalInfo } from '../data/portfolioData';
@@ -83,9 +83,9 @@ const Hero = () => {
           <a href={`mailto:${personalInfo.email}`} className="transition hover:text-white">
             <MdEmail size={24} />
           </a>
-          <a href={`tel:${personalInfo.phone.replace(/\s+/g, '')}`} className="transition hover:text-white">
+          {/* <a href={`tel:${personalInfo.phone.replace(/\s+/g, '')}`} className="transition hover:text-white">
             <FaPhoneAlt size={20} />
-          </a>
+          </a> */}
         </motion.div>
       </div>
     </section>
