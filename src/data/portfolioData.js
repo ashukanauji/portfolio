@@ -11,7 +11,7 @@ export const personalInfo = {
   name: "Ashish Das",
   title:
     "AI/ML Engineer | Data Scientist | Full Stack Developer | Cloud Engineer",
-  phone: "+91 7890848001",
+  phone: "",
   email: "ashu.official1254@gmail.com",
   linkedin: "https://www.linkedin.com/in/ashish-das-190806193/",
   github: "https://github.com/ashukanauji/",
